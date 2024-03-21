@@ -12,6 +12,7 @@ Narrow Escape is a hypercasuel endless runner game where the objective is to avo
 
 - Engaging and simplistic gameplay
 - Addictive
+- Progressively harder
 
 ## Getting Started
 
