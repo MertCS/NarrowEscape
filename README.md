@@ -35,7 +35,7 @@ Narrow Escape is a hypercasuel endless runner game where the objective is to avo
 
 ## Movement
 
-- **SpaceBar:** Dash Upwards
+- **Space Bar:** Dash Upwards
 
 ### Screenshots
 <img width="288" alt="Screenshot 2024-03-21 at 14 29 14" src="https://github.com/MertCS/NarrowEscape/assets/91367755/bbac3edb-5567-42e6-aead-79d310ef870f">
