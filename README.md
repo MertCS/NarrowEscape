@@ -27,7 +27,7 @@ Narrow Escape is a hypercasuel endless runner game where the objective is to avo
    ```bash
    git clone https://github.com/MertCS/NarrowEscape
 
-2. Open the folder 'Story Saver' and run 'main.py'
+2. Open the folder 'NarrowEscape' and run 'main.py'
    ```bash
    python main.py
 
